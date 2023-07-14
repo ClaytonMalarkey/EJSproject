@@ -1,0 +1,2 @@
+# EJSproject
+ejs project
